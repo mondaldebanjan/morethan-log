@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "I never stop learning..",
     email: "mondal.debanjan.bwn@gmail.com",
     linkedin: "mondaldebanjanbwn",
-    github: "mondaldebanjanbwn",
+    github: "mondaldebanjan",
     instagram: "__debanjan",
   },
   projects: [
